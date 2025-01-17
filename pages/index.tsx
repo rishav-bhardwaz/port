@@ -1,7 +1,6 @@
 import type { NextPage } from "next";
 import FrameComponent1 from "../components/frame-component1";
 import FrameComponent2 from "../components/frame-component2";
-import FrameComponent3 from "../components/frame-component3";
 
 const Home: NextPage = () => {
   return (
