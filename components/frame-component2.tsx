@@ -1,6 +1,4 @@
-import type { NextPage } from "next";
 
-const FrameComponent2: NextPage = () => {
   return (
     <section className="w-[1394px] flex flex-row items-start justify-center pt-0 px-5 pb-[21px] box-border max-w-full shrink-0 text-left text-5xl text-white font-poppins">
       <div className="w-[1200px] flex flex-col items-start justify-start gap-[32px] max-w-full mq725:gap-[16px]">
